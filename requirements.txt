@@ -1,0 +1,4 @@
+tkinter
+Pillow>=8.0.0
+mutagen>=1.45.0
+pyinstaller>=4.0
